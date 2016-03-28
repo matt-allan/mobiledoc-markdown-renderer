@@ -10,7 +10,7 @@ markdown documents. It may be of limited use inside browsers as well.
 
 ### Usage
 
-```
+```javascript
 var mobiledoc = {
   "version": "0.3.0",
   "atoms": [],
